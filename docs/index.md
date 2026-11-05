@@ -1,9 +1,9 @@
 # Dr Tafara Estelle Makuni
 
-Dr Tafara Estelle Makuni is an A-Level Mathematics tutor specialising across all exam boards (Edexcel, AQA and OCR).
+Dr Tafara Estelle Makuni is an A-Level Mathematics tutor specialising across all exam boards (Edexcel, AQA and OCR). <br>
 Cost: £35-£45 per hour (depending on level, and total number of lessons).
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/10b57956-7a34-4ccc-9951-9476b3fcab03" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/10b57956-7a34-4ccc-9951-9476b3fcab03" />
 
 ## Education
 **Imperial College London** <br>
