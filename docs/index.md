@@ -3,7 +3,7 @@
 **Service:** A-Level Mathematics tutor specialising across all exam boards (Edexcel, AQA and OCR). <br>
 **Cost:** £35-£45 per hour (depending on level, and total number of lessons).
 
-<img width="200" height="200" alt="image" src="[https://github.com/user-attachments/assets/10b57956-7a34-4ccc-9951-9476b3fcab03](https://github.com/tafaramakuni/docs/assets/Tafara-Makuni-v02.png)" />
+<img width="200" height="200" alt="image" src="(https://github.com/tafaramakuni/docs/assets/Tafara-Makuni-v02.png)" />
 
 
 
