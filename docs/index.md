@@ -1,11 +1,10 @@
 # Dr Tafara Estelle Makuni
 
-Welcome to my personal website were you will find information about me.
-
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/10b57956-7a34-4ccc-9951-9476b3fcab03" />
 
 ## About Me
-I am a Christian Scientist based in London with a keen interest in music, photography and sport.
+Dr Tafara Estelle Makuni is an A-Level Mathematics tutor specialising across all exam boards (Edexcel, AQA and OCR).
+Cost: £35-£45 per hour (depending on level, and total number of lessons).
 
 ## Education
 **Imperial College London** <br>
@@ -47,13 +46,3 @@ University of Cambridge
 
 **Experimental Investigations of Shock Wave–Boundary-Layer Interactions in Intakes at High Incidence**;
 TE Makuni, H Babinsky
-
-## Social Media
-+ [LinkedIn](https://uk.linkedin.com/in/tafara-e-makuni)
-+ [Google Scholar](https://scholar.google.com/citations?user=QdAFMUIAAAAJ&hl=en&oi=ao)
-+ [Research Gate](https://www.researchgate.net/profile/Tafara-Makuni?ev=hdr_xprf)
-
-## Disclaimer
-
-Views expressed are my own opinions and does not reflect your employer or organizations. 
-The auther takes no responsibility for the accuracy of the information presented here.
