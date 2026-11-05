@@ -11,11 +11,6 @@ Position: 2nd PhD: AI Applied to Aerodynamic/Structural Interactions <br>
 Department of Aeronautical Engineer; London, United Kingdom <br>
 August 2023 - Current<br>
 
-**Norwegian University of Science and Technology** <br>
-Position: Post-Doctoral Fellow<br>
-Department of Energy and Process Engineering;Trondheim, Norway<br>
-August 2017 - January 2018<br>
-
 **University of Cambridge** <br>
 Position: 1st PhD: Jet Engine Intakes at High Incidence <br>
 Department of Engineering; Cambridge, United Kingdom <br>
@@ -26,7 +21,7 @@ Position: MEng: Disctinction (Aerospace and Aerothermal Engineering) <br>
 Department of Engineering; Cambridge, United Kingdom <br>
 October 2008 - October 2012<br>
 
-## Publications
+## Academic Publications
 
 **Digital Twin for Aerodynamic and Structural Interaction**;<br>
 TE Makuni, Z Sharif-Khodaei, FMH Aliabadi
