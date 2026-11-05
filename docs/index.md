@@ -1,26 +1,30 @@
 # Dr Tafara Estelle Makuni
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/10b57956-7a34-4ccc-9951-9476b3fcab03" />
-
-## About Me
 Dr Tafara Estelle Makuni is an A-Level Mathematics tutor specialising across all exam boards (Edexcel, AQA and OCR).
 Cost: £35-£45 per hour (depending on level, and total number of lessons).
 
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/10b57956-7a34-4ccc-9951-9476b3fcab03" />
+
 ## Education
 **Imperial College London** <br>
-Position: PhD Student<br>
+Position: 2nd PhD: AI Applied to Aerodynamic/Structural Interactions <br>
 Department of Aeronautical Engineer; London, United Kingdom <br>
 August 2023 - Current<br>
 
 **Norwegian University of Science and Technology** <br>
+Position: Post-Doctoral Fellow<br>
 Department of Energy and Process Engineering;Trondheim, Norway<br>
-Position: Post Doctoral Fellow<br>
 August 2017 - January 2018<br>
 
 **University of Cambridge** <br>
+Position: 1st PhD: Jet Engine Intakes at High Incidence <br>
 Department of Engineering; Cambridge, United Kingdom <br>
-Position: PhD Student <br>
 October 2012 - October 2017<br>
+
+**University of Cambridge** <br>
+Position: MEng: Disctinction (Aerospace and Aerothermal Engineering) <br>
+Department of Engineering; Cambridge, United Kingdom <br>
+October 2008 - October 2012<br>
 
 ## Publications
 
